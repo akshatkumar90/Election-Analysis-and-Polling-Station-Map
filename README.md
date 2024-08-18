@@ -24,6 +24,7 @@ information.
 For the Election Analysis project, my contribution included extracting data from 
 the Election Commission's official website and downloading PDF files to the 
 local system using Python tools.
+
 • Tool 1: This tool downloaded all polling station-wise results from the election 
 portal and saved them to the local computer.
 
